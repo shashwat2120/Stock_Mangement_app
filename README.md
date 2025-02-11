@@ -3,7 +3,7 @@
 Stock Market Management System is a Python application that allows users to manage their stock portfolios, buy and sell shares of different companies, and track their wallet balances. This project is built using the CustomTkinter library for the graphical user interface and interacts with a MySQL database for user registration and data storage.
 
 ## About Me
-> **Name:** Prem Ganesh Gaikwad
+> **Name:** shashwat
 >> **Affiliated with:** SCTR's Pune Institute of Computer Technology 
 >>> **Educational Background:** Bachelor of Engineering (E&TE)
 >>>> **Honors:** Artificial Intelligence and Machine Learning 
@@ -45,7 +45,7 @@ Stock Market Management System is a Python application that allows users to mana
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Prem07a/Stock_Mangement_app.git
+   git clone https://github.com/shashwat2120/Stock_Mangement_app.git
    ```
 
 2. Install the required Python libraries:
@@ -158,4 +158,3 @@ on stock trading and investment strategies.
 
 [MIT License](LICENSE)
 
-`© Prem Gaikwad 2023`
